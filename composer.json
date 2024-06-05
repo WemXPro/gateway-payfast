@@ -1,0 +1,15 @@
+{
+    "name": "wemx/gateway-payfast",
+    "description": "",
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\PayfastGateway\\": ""
+        }
+    }
+}

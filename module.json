@@ -1,0 +1,13 @@
+{
+    "name": "PayfastGateway",
+    "alias": "payfastgateway",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PayfastGateway\\Providers\\PayfastGatewayServiceProvider"
+    ],
+    "files": [],
+    "type": "gateway",
+    "class": "Modules\\PayfastGateway\\Entities\\PayfastGateway"
+}
